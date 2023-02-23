@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MANU9829
-- 👀 I’m interested in creating
-- 🌱 I’m currently learning MERN
+- 👋 Hi, I’m @mhimanuhu
+- 👀 I’m interested in finding incredibilities
+- 🌱 I’m currently working in MERN
 - 💞️ I’m looking to collaborate on Startups
 - 📫 How to reach me hackingmastermanu@gmail.com
 
